@@ -1,5 +1,6 @@
 ---
 classes: wide
+layout: newSite
 header:
   overlay_image: /assets/images/splash-images/sinnoh-rt-210.png
   caption: "[__Route 210__](https://bulbapedia.bulbagarden.net/wiki/Sinnoh_Route_210) in Sinnoh"

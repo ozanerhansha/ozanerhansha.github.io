@@ -7,6 +7,7 @@ categories:
 tags: 
   - computer-science
   - projects
+layout: newSite
 ---
 
 ## What is FileToPNG?

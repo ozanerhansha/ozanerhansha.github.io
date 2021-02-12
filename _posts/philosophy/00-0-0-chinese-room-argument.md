@@ -10,6 +10,7 @@ categories:
 tags: 
   - philosophy
   - artificial-intelligence
+layout: newSite
 ---
 <!-- Alternative title: On Searle's 'Minds, Brains, and Programs' -->
 

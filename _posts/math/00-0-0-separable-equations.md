@@ -10,6 +10,7 @@ tags:
   - math
   - analysis
   - differential-equations
+layout: newSite
 ---
 
 ## Definition

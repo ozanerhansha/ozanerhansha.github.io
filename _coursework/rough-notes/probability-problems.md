@@ -11,6 +11,7 @@ tags:
   - math
   - probability-theory
   - combinatorics
+layout: newSite
 ---
 
 ## Chapter 1 - Combinatorics

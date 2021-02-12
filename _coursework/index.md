@@ -5,7 +5,7 @@ header:
   caption: "[__Route 216__](https://bulbapedia.bulbagarden.net/wiki/Sinnoh_Route_216) in Sinnoh"
 permalink: /coursework/index.html
 # date: 2020-01-15
-
+layout: newSite
 feature_row:
 ---
 

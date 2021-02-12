@@ -7,6 +7,7 @@ toc_label: "Overview"
 tags:
     - math
     - analysis
+layout: newSite
 ---
 
 ## Definition

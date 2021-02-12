@@ -10,6 +10,7 @@ categories:
 tags: 
   - philosophy
   - artificial-intelligence
+layout: newSite
 ---
 
 ## Background

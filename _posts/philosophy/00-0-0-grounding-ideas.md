@@ -9,6 +9,7 @@ categories:
   - posts
 tags: 
   - philosophy
+layout: newSite
 ---
 ## Poorly Defined Concepts
 What is jealousy? What is a cat? What does it mean to be free? What *are* you?

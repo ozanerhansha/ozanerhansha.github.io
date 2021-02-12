@@ -10,6 +10,7 @@ tags:
   - math
   - logic
   - set-theory
+layout: newSite
 ---
 
 The Iverson bracket, denoted $[P]$, is a "function" that evaluates to $1$ if the given proposition $P$ is true and $0$ if it's false. That is to say:

@@ -10,6 +10,7 @@ categories:
 tags: 
   - philosophy
   - logic
+layout: newSite
 ---
 <!-- original date: 2018-09-07 (everything except inductive section [plus edits]) -->
 

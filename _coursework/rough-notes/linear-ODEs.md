@@ -13,6 +13,7 @@ tags:
     - math
     - analysis
     - differential-equations
+layout: newSite
 ---
 <!-- original date: 2018-05-28 -->
 

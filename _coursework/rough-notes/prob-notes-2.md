@@ -10,6 +10,7 @@ categories:
 tags: 
   - math
   - probability-theory
+layout: newSite
 ---
 
 ## Sample Spaces and Events

@@ -9,6 +9,7 @@ categories:
 tags: 
   - math
   - set-theory
+layout: newSite
 ---
 
 <!-- An $n$-tuple is an ordered list of $n$ elements. It is dissimilar to a set in that the order of its elements matter, it must be finite, and it can contain multiples of the same element.

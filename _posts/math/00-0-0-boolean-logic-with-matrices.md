@@ -10,6 +10,7 @@ tags:
   - math
   - linear-algebra
   - logic
+layout: newSite
 ---
 
 At it's lowest levels, computation is usually formulated via boolean logic which, in turn, makes use of logical connectives like $\wedge,\vee, \neg$ along with the binary digits $1$ and $0$, representing true and false respectively.

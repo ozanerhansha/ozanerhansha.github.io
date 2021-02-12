@@ -11,6 +11,7 @@ tags:
   - computer-science
   - artificial-intelligence
   - projects
+layout: newSite
 ---
 
 ## Background

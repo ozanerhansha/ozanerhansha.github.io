@@ -9,6 +9,7 @@ categories:
   - posts
 tags: 
   - philosophy
+layout: newSite
 ---
 
 What follows are my notes on Peter Singer's ["All Animals are Equal"][1]. Each section/response is preceded by the paragraph of the paper it is referring to.

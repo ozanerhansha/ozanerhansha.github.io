@@ -10,6 +10,7 @@ categories:
 tags: 
   - computer-science
   - algorithms
+layout: newSite
 ---
 
 **Sequential search**, or linear search, is a search algorithm implemented on lists. It is one of the most intuitive (some might even say naïve) approaches to search: simply look at all entries in order until the element is found.

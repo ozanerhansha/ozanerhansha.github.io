@@ -10,6 +10,7 @@ tags:
   - math
   - set-theory
   - probability-theory
+layout: newSite
 ---
 
 The inclusion-exclusion principle is usually introduced as a way to compute the cardinalities/probabilities of a union of sets/events. However, instead of treating both the cardinality and probabilistic cases separately, we will introduce the principle in a more general form, that is, as it applies to any finite measure. We will then show that this gives us both the cardinality and probability interpretations for free.

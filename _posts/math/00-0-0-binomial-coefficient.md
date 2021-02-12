@@ -9,6 +9,7 @@ categories:
 tags: 
   - math
   - combinatorics
+layout: newSite
 ---
 
 ## Combinations

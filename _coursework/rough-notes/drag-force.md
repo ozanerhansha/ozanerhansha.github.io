@@ -6,6 +6,7 @@ toc: true
 toc_label: "Overview"
 tags:
     - physics
+layout: newSite
 ---
 
 ## General Info

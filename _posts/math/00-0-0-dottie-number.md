@@ -7,6 +7,7 @@ categories:
 tags: 
   - math
   - analysis
+layout: newSite
 ---
 The Dottie number, which I will denote as $\textbf{d}$, is the only real solution to the equation: $\cos x = x$
 

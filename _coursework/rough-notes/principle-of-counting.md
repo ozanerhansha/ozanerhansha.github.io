@@ -12,6 +12,7 @@ tags:
   - set-theory
   - probability-theory
   - combinatorics
+layout: newSite
 ---
 
 ## Statement

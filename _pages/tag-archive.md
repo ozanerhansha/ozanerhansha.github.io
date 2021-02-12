@@ -3,6 +3,6 @@ title: "Posts by Tag"
 permalink: /tags/
 redirect_from:
   - /notes/
-layout: tags
+layout: newSite
 author_profile: true
 ---

@@ -8,6 +8,7 @@ categories:
 tags: 
   - math
   - analysis
+layout: newSite
 ---
 ## Variants of Factorial
 ### Factorial

@@ -9,6 +9,7 @@ categories:
 tags: 
   - math
   - set-theory
+layout: newSite
 ---
 
 Relations are mathematical objects used to encode $n$-way relationships between elements of the same or different sets (e.g. there is a two way relationship between $2$ and $5$ in that $2<5$). Some important types of relations include partial orders, equivalence relations, and functions.

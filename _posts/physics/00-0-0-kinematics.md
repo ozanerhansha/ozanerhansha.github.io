@@ -9,6 +9,7 @@ categories:
   - posts
 tags: 
   - physics
+layout: newSite
 ---
 <!-- Make vectors bold rather than arrow headed -->
 $\renewcommand{\vec}[1]{\mathbf{#1}}$

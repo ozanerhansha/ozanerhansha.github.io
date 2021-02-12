@@ -9,6 +9,7 @@ categories:
 tags: 
   - math
   - set-theory
+layout: newSite
 ---
 <!-- Heavily Reformatted 11/30/18 -->
 
